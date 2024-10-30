@@ -196,13 +196,13 @@ background: white;
 }
 
 .inner-tarrif{
-  
+   /* display: flex; */
     flex-wrap: wrap;
     justify-content: center;
     gap: 15px;
 }
 .tarrif-container{
-    flex: 1 1 250px;
+   /* flex: 1 1 250px; */
     text-align: center;
     padding: 3rem 0;
 }
